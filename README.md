@@ -4,6 +4,8 @@ Laravel passport authentication all ready to go simply run the following commond
 
 `
 composer install
+`
+`
 php artisan migrate 
 `
 
